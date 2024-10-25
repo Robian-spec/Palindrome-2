@@ -50,9 +50,18 @@ int main() {
 | ------- |
 | [0133-clone-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/0133-clone-graph) |
 | [1916-find-center-of-star-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/1916-find-center-of-star-graph) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2439-longest-cycle-in-a-graph) |
+## Array
+|  |
+| ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2189-maximum-path-quality-of-a-graph) |
+## Backtracking
+|  |
+| ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2189-maximum-path-quality-of-a-graph) |
 <!---LeetCode Topics End-->
