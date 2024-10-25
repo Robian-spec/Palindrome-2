@@ -40,6 +40,7 @@ int main() {
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/0133-clone-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,4 +50,9 @@ int main() {
 | ------- |
 | [0133-clone-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/0133-clone-graph) |
 | [1916-find-center-of-star-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/1916-find-center-of-star-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2439-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
