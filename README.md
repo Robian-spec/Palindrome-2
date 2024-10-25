@@ -48,4 +48,5 @@ int main() {
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/0133-clone-graph) |
+| [1916-find-center-of-star-graph](https://github.com/Robian-spec/Palindrome-2/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
